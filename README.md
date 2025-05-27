@@ -4,6 +4,9 @@ Repository created to organize .NET applications using AWS services
 ## Lambda
 https://github.com/antonioscript/AWS.NET.Lambda
 
+## SQS
+https://github.com/antonioscript/AWS.NET.Lambda
+
 ## API Gateway
 https://github.com/antonioscript/AWS.NET.Lambda
 
