@@ -1,6 +1,13 @@
 # AWS.NET
 Repository created to organize .NET applications using AWS services
 
+## Lambda
+https://github.com/antonioscript/AWS.NET.Lambda
+
+## API Gateway
+https://github.com/antonioscript/AWS.NET.Lambda
+
+
 ## Configuration Environment
 
 ### Login CLI
@@ -24,8 +31,4 @@ https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.AWSToolkit
 dotnet new -i Amazon.Lambda.Templates
 ```
 
-## Lambda
-https://github.com/antonioscript/AWS.NET.Lambda
 
-## API Gateway
-https://github.com/antonioscript/AWS.NET.Lambda
