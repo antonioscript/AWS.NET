@@ -8,7 +8,7 @@ https://github.com/antonioscript/AWS.NET.Lambda
 https://github.com/antonioscript/AWS.NET.Lambda
 
 
-## Configuration Environment
+## Configuration Environment (Visual Studio)
 
 ### Login CLI
 ``` powersehl
