@@ -26,3 +26,6 @@ dotnet new -i Amazon.Lambda.Templates
 
 ## Lambda
 https://github.com/antonioscript/AWS.NET.Lambda
+
+## API Gateway
+https://github.com/antonioscript/AWS.NET.Lambda
