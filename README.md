@@ -2,17 +2,15 @@
 Repository created to organize .NET applications using AWS services
 
 ## Lambda
-https://github.com/antonioscript/AWS.NET.Lambda
-
+https://github.com/antonioscript/AWS.Lambda.NET
 ## SQS
-https://github.com/antonioscript/AWS.NET.Lambda
+https://github.com/antonioscript/AWS.Lambda.NET
 
 ## API Gateway
-https://github.com/antonioscript/AWS.NET.Lambda
+https://github.com/antonioscript/AWS.Lambda.NET
 
 ## DynamoDB
-https://github.com/antonioscript/AWS.NET.Lambda
-
+https://github.com/antonioscript/AWS.Lambda.NET
 
 ## Configuration Environment (Visual Studio)
 
