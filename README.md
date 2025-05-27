@@ -7,6 +7,9 @@ https://github.com/antonioscript/AWS.NET.Lambda
 ## API Gateway
 https://github.com/antonioscript/AWS.NET.Lambda
 
+## DynamoDB
+https://github.com/antonioscript/AWS.NET.Lambda
+
 
 ## Configuration Environment (Visual Studio)
 
