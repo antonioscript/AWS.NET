@@ -4,6 +4,9 @@ Repository created to organize .NET applications using AWS services
 ## Host API .NET on Lambda AWS
 https://github.com/antonioscript/API.NET.AWS.Lambda
 
+## S3
+https://github.com/antonioscript/API.NET.AWS.S3
+
 ## Lambda (Function)
 https://github.com/antonioscript/AWS.Lambda.NET
 
@@ -16,8 +19,6 @@ https://github.com/antonioscript/AWS.Lambda.NET
 ## DynamoDB
 https://github.com/antonioscript/AWS.Lambda.NET
 
-## S3
-https://github.com/antonioscript/API.NET.AWS.S3
 
 ## Configuration Environment (Visual Studio)
 
