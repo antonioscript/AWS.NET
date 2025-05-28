@@ -1,8 +1,12 @@
 # AWS.NET
 Repository created to organize .NET applications using AWS services
 
-## Lambda
+## Host API .NET on Lambda AWS
+https://github.com/antonioscript/API.NET.AWS.Lambda/blob/master/README.md
+
+## Lambda (Function)
 https://github.com/antonioscript/AWS.Lambda.NET
+
 ## SQS
 https://github.com/antonioscript/AWS.Lambda.NET
 
