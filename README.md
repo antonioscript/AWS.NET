@@ -14,7 +14,10 @@ Repository created to organize .NET applications using AWS services.
   .NET API hosted on AWS Lambda using API Gateway.
 
 ### 🔗 **ECS**
-- [API .NET hosted on ECS](https://github.com/antonioscript/API.NET.AWS.ECS)
+- [Simple API Project on ECS](https://github.com/antonioscript/API.NET.SimpleCluster.ECS)
+  Simple API hosted on ECS + Fargate
+  
+- [API .NET hosted on ECS](https://github.com/antonioscript/API.NET.AWS.ECS)</br>
   Example of a .NET application running on ECS + Fagate
 
 ### 🔗 **EC2**
