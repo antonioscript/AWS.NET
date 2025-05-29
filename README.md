@@ -1,15 +1,35 @@
 # AWS.NET
-Repository created to organize .NET applications using AWS services
 
-## Host API .NET on Lambda AWS
-https://github.com/antonioscript/API.NET.AWS.Lambda
+Repository created to organize .NET applications using AWS services.
 
-## S3
-https://github.com/antonioscript/API.NET.AWS.S3
+---
 
-## Lambda (Function)
-https://github.com/antonioscript/AWS.Lambda.NET
+## Compute Essentials
 
+### 🔗 **Lambda**
+- [Lambda Function with .NET](https://github.com/antonioscript/AWS.Lambda.NET)  
+  Example of a serverless function using AWS Lambda with .NET.
+
+- [Hosting .NET API on AWS Lambda](https://github.com/antonioscript/API.NET.AWS.Lambda)  
+  .NET API hosted on AWS Lambda using API Gateway.
+
+### 🔗 **EC2**
+- [API .NET hosted on EC2](https://github.com/antonioscript/API.NET.AWS.EC2)  
+  Example of a .NET application running on an EC2 instance.
+
+---
+
+## Storage Essentials
+
+### 🔗 **S3**
+- [API .NET with S3 integration](https://github.com/antonioscript/API.NET.AWS.S3)  
+  .NET API to perform operations with Amazon S3 (upload, download, list files, etc.).
+
+---
+
+
+
+-----
 ## SQS
 https://github.com/antonioscript/AWS.Lambda.NET
 
