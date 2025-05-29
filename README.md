@@ -19,6 +19,8 @@ https://github.com/antonioscript/AWS.Lambda.NET
 ## DynamoDB
 https://github.com/antonioscript/AWS.Lambda.NET
 
+## EC2
+https://github.com/antonioscript/API.NET.AWS.EC2
 
 ## Configuration Environment (Visual Studio)
 
