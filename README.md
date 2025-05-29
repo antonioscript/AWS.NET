@@ -13,6 +13,10 @@ Repository created to organize .NET applications using AWS services.
 - [Hosting .NET API on AWS Lambda](https://github.com/antonioscript/API.NET.AWS.Lambda)  
   .NET API hosted on AWS Lambda using API Gateway.
 
+### 🔗 **ECS**
+- [API .NET hosted on ECS](https://github.com/antonioscript/API.NET.AWS.ECS)
+  Example of a .NET application running on ECS + Fagate
+
 ### 🔗 **EC2**
 - [API .NET hosted on EC2](https://github.com/antonioscript/API.NET.AWS.EC2)  
   Example of a .NET application running on an EC2 instance.
