@@ -51,6 +51,9 @@ https://github.com/antonioscript/API.NET.AWS.EC2
 
 ## Configuration Environment (Visual Studio)
 
+## Install Amazon CLI
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
 ### Login CLI
 ``` powersehl
 aws configure --profile aws-admin
