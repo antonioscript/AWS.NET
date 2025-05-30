@@ -18,7 +18,7 @@ Repository created to organize .NET applications using AWS services.
   Simple API hosted on ECS + Fargate
   
 - [API .NET hosted on ECS](https://github.com/antonioscript/API.NET.AWS.ECS)</br>
-  Example of a .NET application running on ECS + Fagate
+.NET API with MongoDB, running on an AWS ECS Fargate cluster.
 
 ### 🔗 **EC2**
 - [API .NET hosted on EC2](https://github.com/antonioscript/API.NET.AWS.EC2)  
