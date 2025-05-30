@@ -76,3 +76,7 @@ dotnet new -i Amazon.Lambda.Templates
 ```
 
 
+## References
+
+https://codewithmukesh.com/blog/essential-aws-services-for-dotnet-developers/
+
