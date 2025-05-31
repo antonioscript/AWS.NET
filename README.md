@@ -38,10 +38,18 @@ Repository created to organize .NET applications using AWS services.
 
 ### 🔗 **VPC**
 - [AWS VPC](https://github.com/antonioscript/AWS.VPC)  
-  .Theoretical repository on how VPC works
+  Theoretical repository on how VPC works
 
 ---
 
+## Security Essentials
+
+### 🔗 **IAM**
+- [AWS IAM](https://github.com/antonioscript/AWS.IAM)  
+  This repository provides a focused overview of AWS Identity and Access Management (IAM).
+
+
+---
 
 
 -----
