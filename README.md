@@ -51,18 +51,16 @@ Repository created to organize .NET applications using AWS services.
 
 ---
 
+## Monitoring Essentials
+
+### 🔗 **CloudWatch**
+- [AWS CloudWatch](https://github.com/antonioscript/AWS.CloudWatch)  
+  API created in . NET driving logs in Serilog with Cloud Wacth
+
+---
 
 
-## SQS
-https://github.com/antonioscript/AWS.Lambda.NET
-
-## API Gateway
-https://github.com/antonioscript/AWS.Lambda.NET
-
-## DynamoDB
-https://github.com/antonioscript/AWS.Lambda.NET
-
-## Configuration Environment (Visual Studio)
+# Configuration Environment (Visual Studio)
 
 ## Install Amazon CLI
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
