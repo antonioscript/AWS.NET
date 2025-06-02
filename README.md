@@ -60,6 +60,12 @@ Repository created to organize .NET applications using AWS services.
 
 ---
 
+### 🔗 **Amazon Cognito**
+- [Amazon Cognito](https://github.com/antonioscript/AWS.Cognito.NET)  
+  Example of integrating Amazon Cognito with .NET for user authentication and authorization.
+
+---
+
 ## Monitoring Essentials
 
 ### 🔗 **CloudWatch**
