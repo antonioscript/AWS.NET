@@ -51,6 +51,12 @@ Repository created to organize .NET applications using AWS services.
 
 ---
 
+### 🔗 **Route 53**
+- [Route 53](https://github.com/antonioscript/AWS.Route53)  
+  This repository showcases how to use Amazon Route 53 for DNS management on AWS.
+
+---
+
 ## Security Essentials
 
 ### 🔗 **IAM**
