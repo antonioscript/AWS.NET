@@ -57,6 +57,13 @@ Repository created to organize .NET applications using AWS services.
 
 ---
 
+### 🔗 **Load Balancing**
+- [Load Balancing](https://github.com/antonioscript/AWS.ElasticLoadBalancing)  
+  This repository showcases how to use AWS Elastic Load Balancing (ELB) to automatically distribute application traffic across multiple instances.
+
+---
+
+
 ## Security Essentials
 
 ### 🔗 **IAM**
