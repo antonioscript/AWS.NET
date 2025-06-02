@@ -30,8 +30,8 @@ Repository created to organize .NET applications using AWS services.
 ## Serverless Essentials
 
 ### 🔗 **API Gateway**
-- [Function Lambda .NET](https://github.com/antonioscript/AWS.APIGateway.NET)  
-  Lambda function in write on . NET and with DynamoDB integrated with API Gateway
+- [API Gateway](https://github.com/antonioscript/AWS.APIGateway.NET)  
+  This repository demonstrates how to integrate Amazon API Gateway with .NET applications.
 
 ---
 
