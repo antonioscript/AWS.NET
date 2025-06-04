@@ -70,6 +70,9 @@ Repository created to organize .NET applications using AWS services.
 - [SQS .NET](https://github.com/antonioscript/AWS.SQS.NET)  
   This repository demonstrates how to integrate Amazon SQS (Simple Queue Service) with .NET applications.
 
+- [SNS .NET](https://github.com/antonioscript/AWS.SNS.NET)  
+  This repository demonstrates how to integrate Amazon SNS (Simple Notification Service) with .NET applications.
+
 
 ---
 
