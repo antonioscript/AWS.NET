@@ -64,6 +64,15 @@ Repository created to organize .NET applications using AWS services.
 ---
 
 
+## Messaging Essentials
+
+### 🔗 **SQS**
+- [SQS .NET](https://github.com/antonioscript/AWS.SQS.NET)  
+  This repository demonstrates how to integrate Amazon SQS (Simple Queue Service) with .NET applications.
+
+
+---
+
 ## Security Essentials
 
 ### 🔗 **IAM**
